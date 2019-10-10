@@ -2,7 +2,7 @@ import React from "react"
 
 const Explanation = props => {
     return (
-        <h3>{props.explanation}</h3>
+        <h2>{props.explanation}</h2>
     )
 }
 
